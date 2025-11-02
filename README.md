@@ -19,6 +19,9 @@ It showcases my skills in Python, Pandas, visualisation libraries and machine‑
 - GitHub for version control
 
 ## Example Visualisation  
+<img width="616" height="470" alt="image" src="https://github.com/user-attachments/assets/5f51e0e0-4ee1-45b6-80c3-51188bc81024" />
+
+<img width="624" height="478" alt="image" src="https://github.com/user-attachments/assets/5e369218-2864-4680-9b7b-11efd6a29c3b" />
 
 
 ```python
